@@ -12,6 +12,17 @@ Coursework for CSCI 470- Operating Systems Design
 
 ## Assignments 
 
+### Assignment #1
+
+| Name | Value |
+| :--- | :--- |
+| Name | Chat about Threads and Application |
+| Description | Have a conversation about threads with ChatGPT & create a "W" application that uses threads |
+| Due Date | 24-Oct-2023 |
+| Status | Done |
+| Location | https://github.com/MiaWeber25/os-mweber2/tree/main/threads |
+| Notes | Created a word count application that uses threads and mutex. |
+
 ### Assignment #0
 
 | Name | Value |
