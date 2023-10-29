@@ -12,6 +12,17 @@ Coursework for CSCI 470- Operating Systems Design
 
 ## Assignments 
 
+### Assignment #2
+
+| Name | Value |
+| :--- | :--- |
+| Name | Share Memory between a Child and Parent |
+| Description | Use shared memory to create a buffer shared between two processes: a child and parent process. |
+| Due Date | 31-Oct-2023 |
+| Status | Done |
+| Location | https://github.com/MiaWeber25/os-mweber2/tree/main/memory |
+| Notes | Created a buffer that is shared between a child and parent process. Process increments elements by 5 |
+
 ### Assignment #1
 
 | Name | Value |
