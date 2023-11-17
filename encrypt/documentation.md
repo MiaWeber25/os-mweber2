@@ -1,6 +1,6 @@
-#Conversation with ChatGPT about OpenSSL toolset that was used and why it is secure
+# Conversation with ChatGPT about OpenSSL toolset that was used and why it is secure
 
-##Can you describe what OpenSSL is and how it works, specifically regarding symmetric encryption?
+## Can you describe what OpenSSL is and how it works, specifically regarding symmetric encryption?
 
 OpenSSL is a powerful and versatile open-source toolkit that provides a wide range of cryptographic operations, including symmetric encryption, which is one of its fundamental capabilities. Here's an overview of what OpenSSL is and how it works, particularly in the context of symmetric encryption:
 
@@ -30,7 +30,7 @@ OpenSSL is a powerful and versatile open-source toolkit that provides a wide ran
 
 In summary, OpenSSL's capabilities in symmetric encryption are robust, offering flexibility in terms of algorithms, modes of operation, and key management. Its wide use in the industry and strong community support make it a reliable choice for cryptographic operations. Whether for securing data at rest or in transit, OpenSSL provides the necessary tools to implement strong symmetric encryption.
 
-##Is AES-256 the best choice for an algorithm for this assignment?
+## Is AES-256 the best choice for an algorithm for this assignment?
 Choosing AES-256 as the algorithm for your symmetric encryption assignment can be considered a strong choice, and here's why:
 
 ### Strengths of AES-256
@@ -55,7 +55,7 @@ Choosing AES-256 as the algorithm for your symmetric encryption assignment can b
 
 For your assignment, using AES-256 would demonstrate your understanding of a high-security encryption standard and show that you're applying a robust level of security to the task. It's a choice that aligns well with best practices in cybersecurity, especially in scenarios where high security is paramount. However, it's also important to understand and articulate why you've chosen AES-256 over other options, focusing on its security strengths and widespread acceptance in the field.
 
-##Can you explain more about what each of the flags that were passed in the openssl encryption and decryption steps do? 
+## Can you explain more about what each of the flags that were passed in the openssl encryption and decryption steps do? 
 
 Certainly! The `openssl` command you use for encryption and decryption includes several flags, each serving a specific purpose. Here's an explanation of each flag used in the commands for encrypting and decrypting a message with OpenSSL:
 
@@ -98,7 +98,7 @@ openssl enc -aes-256-cbc -d -in message.enc -out decrypted.txt -pass file:./secr
 ### General Note
 Using these flags correctly ensures that your encryption and decryption process is secure and works as intended. It's crucial to understand the purpose of each flag so that you can adjust them if needed, depending on your specific requirements or if you choose to use a different cipher or mode.
 
-##Can you provide an explanation on why using OpenSSL for AES-256 and symmetric encryption is secure and provide some examples of when you might use it?
+## Can you provide an explanation on why using OpenSSL for AES-256 and symmetric encryption is secure and provide some examples of when you might use it?
 
 Using OpenSSL for AES-256 symmetric encryption is considered secure due to several factors inherent to both AES-256 as an encryption standard and OpenSSL as a cryptographic tool. Here's an explanation of the security aspects and some examples of when you might use it:
 
