@@ -10,6 +10,15 @@ Coursework for CSCI 470- Operating Systems Design
 | **GitHub Username**         | MiaWeber25 |
 | **Repository**          | https://github.com/MiaWeber25/os-mweber2 |
 
+## Final Project
+| Name | Value |
+| :--- | :--- |
+| Name | Final Project - Oracle Solaris |
+| Description | Gave presentation on Oracle Solaris and did a demonstration of ZFS |
+| Due Date | 14-Dec-2023 |
+| Status | Done |
+| Location | https://github.com/MiaWeber25/os-mweber2/tree/main/final |
+
 ## Assignments 
 
 ### Assignment #2
